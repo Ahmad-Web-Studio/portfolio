@@ -1,5 +1,4 @@
 import React, { useRef, useState, useEffect } from "react";
-import emailjs from "@emailjs/browser";
 import AOS from "aos";
 import "aos/dist/aos.css";
 

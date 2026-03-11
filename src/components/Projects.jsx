@@ -19,15 +19,15 @@ const Projects = () => {
     },
     {
       icon: "fa-mobile-screen",
-      title: "Social Media App",
+      title: "Portfolio Website",
       desc: "Cross-platform mobile app...",
-      link: "#",
+      link: "https://ahmadhassan-web.netlify.app/",
     },
     {
       icon: "fa-chart-pie",
-      title: "Analytics Dashboard",
-      desc: "Data visualization dashboard...",
-      link: "#",
+      title: "E-commerece Website",
+      desc: "Dawacare Pharmacy",
+      link: "https://dawacare.netlify.app/",
     },
     {
       icon: "fa-blog",
